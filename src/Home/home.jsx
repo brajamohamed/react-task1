@@ -1,0 +1,3 @@
+let home = () => {
+  return <h1>Home Component</h1>;
+};
